@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.6)
-project(msl_clang_001)
+project(msl_clang_001 C)
 
 set(CMAKE_CXX_STANDARD 11)
 
